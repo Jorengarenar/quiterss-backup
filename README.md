@@ -1,5 +1,7 @@
 # QuiteRSS Backup
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/bedc8b049eef4ddf802cafa7433dff06)](https://app.codacy.com/gh/Jorengarenar/quiterss-backup?utm_source=github.com&utm_medium=referral&utm_content=Jorengarenar/quiterss-backup&utm_campaign=Badge_Grade_Settings)
+
 Simple script, which provides more convenient backup options for
 [QuiteRSS](https://quiterss.org), than the build-in one.
 
